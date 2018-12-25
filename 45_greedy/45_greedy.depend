@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537962066 source:c:\project\leetcode\45_greedy\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

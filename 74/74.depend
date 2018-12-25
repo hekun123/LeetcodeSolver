@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544013561 source:c:\project\leetcode\74\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

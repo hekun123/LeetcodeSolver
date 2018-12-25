@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+bool searchMatrix(int** matrix, int matrixRowSize, int matrixColSize, int target) {
+    int left = 0;
+    int right = matrixRowSize-1;
+
+
+}
+
+int main(){
+
+    return 0;
+}
