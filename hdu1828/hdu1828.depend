@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545896532 source:c:\project\leetcode\hdu1828\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+

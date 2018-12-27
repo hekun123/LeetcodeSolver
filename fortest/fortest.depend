@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1541219929 source:c:\project\leetcode\fortest\main.cpp
-	<iostream>
-	<vector>
-	<string>
-	<string.h>
-	<stdio.h>
-
