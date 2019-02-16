@@ -62,10 +62,12 @@ void print(struct TreeNode *node){
 
 int main(){
     int cnt = 0;
-    struct TreeNode ** ans = generateTrees(3, &cnt);
+    struct TreeNode ** ans = generateTrees(4, &cnt);
+    printf("%d\n", cnt);
     for(int i = 0 ; i < cnt ; i ++){
         print(ans[i]);
         printf("\n");
     }
+
     return 0;
 }
